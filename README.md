@@ -68,4 +68,6 @@ def policy_iteration(P,gamma=1.0,theta=1e-10):
 
 ## RESULT:
 
+Thus, a Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
+
 
