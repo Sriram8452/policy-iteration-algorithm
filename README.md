@@ -60,8 +60,12 @@ def policy_iteration(P,gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/bd94d23c-50e8-40b0-9f6c-d52780a7e7e5)
+![image](https://github.com/user-attachments/assets/1ba9e090-e944-496c-876e-566828cea442)
+![image](https://github.com/user-attachments/assets/05521594-d23d-45af-bedf-5e80a6d583e9)
+
 
 
 ## RESULT:
 
-Write your result here
+
